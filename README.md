@@ -2,4 +2,12 @@
 
 This repository hold my notes and code for Introduction to Algorithms (CLRS) 4th Edition.
 
-Code snippets may be completed in various languages depending on their complexity and my current language focus at the time. Any pseudocode will be added to the top of the relevant files for reference, and comments will be found throughout. If a particular topic required more in depth notes, additional markdown/org files will be created accordingly.
+Code may be completed in various languages depending on their complexity and my current language focus at the time.
+
+## Chapter 1
+
+Nothing of note here besides some basic maths regarding BigO notation.
+
+## Chapter 2
+
+- Insertion sort: an efficient algorithm for sorting a small number of elements -> O(nlogn)
